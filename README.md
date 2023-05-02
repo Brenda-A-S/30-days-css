@@ -13,3 +13,40 @@ O que aprendi e utilizei:
 * Transform
 
 ![Design sem nome](https://user-images.githubusercontent.com/69852246/235525805-7bace409-5211-4cf4-985e-fa97f9000dc8.gif)
+
+# Dia 2 - Loader animado
+O que aprendi e utilizei:
+* Animações CSS
+* ::before e ::after
+* calc()
+
+![Design sem nome](https://user-images.githubusercontent.com/69852246/235758939-6bcae660-d0d2-4276-b91a-d1b046a4c049.gif)
+
+# Dia 3 - Cor do background mudando
+# Dia 4 - Botões com efeito
+# Dia 5 - Efeito pulsar
+# Dia 6 - Efeito lightning text
+# Dia 7 - Loaders variados
+# Dia 8 - Mudança de cor de texto quando entra em outra div
+# Dia 9 - Indicador de carregamento
+# Dia 10 - Efeito pulsar
+# Dia 11 - Cards com animação flip
+# Dia 12 - Efeito de preenchimento ao passar o mouse
+# Dia 13 - Loading com efeito
+# Dia 14 - Fundo de texto animado
+# Dia 15 - Texto flutuante
+# Dia 16 - Barra de progresso
+# Dia 17 - Loader animado
+# Dia 18 - Texto esfumaçado
+# Dia 19 - Efeitos de animação de fundo de partículas
+# Dia 20 - Efeito de mudança de cor
+# Dia 21 - Esferas quicando
+# Dia 22 - Icones com efeito
+# Dia 23 - Slider de imagens
+# Dia 24 - Preloader animado
+# Dia 25 - Checkbox animado
+# Dia 26 - Loading com efeito
+# Dia 27 - Footer totalmente responsivo
+# Dia 28 - Formulário de login
+# Dia 29 - Menu responsivo com Media Queries
+# Dia 30 - Fogos de artificio

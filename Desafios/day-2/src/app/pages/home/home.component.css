@@ -1,0 +1,25 @@
+.container, .loader1, .loader2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    flex-direction: column;
+    background-color: rgb(26, 0, 48);
+    height: 100vh;
+}
+
+.loader1, .loader2{
+    border-radius: 50px;
+}
+.loader1 {
+    gap: 30px;
+    margin: 10px;
+    padding: 20px;
+    background-color: white;
+}
+
+.loader2 {
+    background-color: black;
+    z-index: 0;
+}

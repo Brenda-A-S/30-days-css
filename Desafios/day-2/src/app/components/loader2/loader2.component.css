@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@500;700;900&display=swap');
+
+.loader {
+    background-color: #10032c;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    border-radius: 50%;
+}
+
+.loader p {
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    text-transform: uppercase;
+    animation: floating 10s infinite;
+}
+
+.loader p::before{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    filter: blur(25px);
+}
+
+.loader::before, .loader::after{
+    content: '';
+    position: absolute;
+    border-radius: 50%;
+    width: calc(100% + 10px);
+    height: calc(100% + 10px);
+    z-index: -1;
+    animation: loading 2s infinite;
+}
+
+.loader::after {
+    filter: blur(10px);
+}
+
+@keyframes loading{
+to{
+    rotate: 360deg;
+}
+}
+
+@keyframes floating {
+    0%, 100%{
+        transform: translateY(0);
+    }
+    25%, 75%{
+        transform: translateY(5px);        
+    }
+    50%{
+        transform: translateY(-5px);        
+    }
+}
+
+/* purple */
+.purple p {    
+    color: #bd5efc;
+}
+.purple p::before {    
+    background-color: #7209b7;
+}
+
+.purple::before, .puple::after{
+    background-image: linear-gradient(45deg, #f72585,#7209b7,#3a0ca3,#4361ee,#4cc9f0);
+}
+
+/* pink */
+.pink p {    
+    color: #e60a9c;
+}
+.pink p::before {    
+    background-color: #c70386;    
+}
+.pink::before, .puple::after{
+    background-image: linear-gradient(45deg, #ff1ab3,#e60a9c,#bb0980,#770651, #630343, #470030);
+}
+
+/* blue */
+.blue p {    
+    color: #0787c2;
+}
+.blue p::before {    
+    background-color: #0582ca;
+}
+.blue::before, .puple::after{
+    background-image: linear-gradient(45deg, #00a6fb,#0582ca,#006494,#003554,#051923);
+}
+
