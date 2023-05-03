@@ -23,6 +23,12 @@ O que aprendi e utilizei:
 ![Design sem nome](https://user-images.githubusercontent.com/69852246/235758939-6bcae660-d0d2-4276-b91a-d1b046a4c049.gif)
 
 # Dia 3 - Cor do background mudando
+O que aprendi e utilizei:
+* Animações CSS
+* hue-rotate
+
+![Design sem nome](https://user-images.githubusercontent.com/69852246/236006529-b61524dd-a02d-48ef-a863-b064f5260993.gif)
+
 # Dia 4 - Botões com efeito
 # Dia 5 - Efeito pulsar
 # Dia 6 - Efeito lightning text

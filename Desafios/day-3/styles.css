@@ -1,0 +1,33 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(253, 184, 253);
+    animation: colors 10s infinite;
+}
+
+h1{
+    font-family: 'Nunito', sans-serif;
+    text-transform: uppercase;
+    font-size: 9rem;
+    color: white;
+}
+
+@keyframes colors {
+    0%,100%{
+        filter: hue-rotate(0);
+    }
+    50%{
+        filter: hue-rotate(360deg);
+    }
+}
