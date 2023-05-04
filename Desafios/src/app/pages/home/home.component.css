@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@500;700;900&display=swap');
+
+.container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    position: relative;
+}
+
+.title {
+    position: absolute;
+    top: 10px;
+    left: 10px;    
+    font-family: 'Nunito', sans-serif;
+}
+
+.gray{
+    background-color: rgb(192, 192, 192);
+    color: white;
+}
+
+.red {
+    background-color: rgb(255, 255, 255);
+    color: #c1121f;
+}
+
+.slateblue {
+    color: slateblue;
+}

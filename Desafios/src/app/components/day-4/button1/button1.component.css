@@ -1,0 +1,37 @@
+button {
+    background-color: transparent;
+    color: slateblue;
+    border: 2px solid slateblue;
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    overflow: hidden;
+    transition: 2s;
+}
+
+button::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100%;
+
+    background-color: slateblue;
+    transition: 1s;
+    z-index: -1;
+}
+
+button:hover::before {
+    content: '';
+    width: 100%;
+    background-color: slateblue;
+    z-index: -1;
+}
+
+button:hover {
+    color: white;
+    cursor: pointer;
+}
+

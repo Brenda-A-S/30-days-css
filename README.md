@@ -29,7 +29,14 @@ O que aprendi e utilizei:
 
 ![Design sem nome](https://user-images.githubusercontent.com/69852246/236006529-b61524dd-a02d-48ef-a863-b064f5260993.gif)
 
-# Dia 4 - Botões com efeito
+# Dia 4 - Botão com efeito
+O que aprendi e utilizei:
+* Transições CSS
+* :hover::before
+
+![4](https://user-images.githubusercontent.com/69852246/236290661-08129010-d6e5-42b3-995b-a06720bb83be.gif)
+
+
 # Dia 5 - Efeito pulsar
 # Dia 6 - Efeito lightning text
 # Dia 7 - Loaders variados
