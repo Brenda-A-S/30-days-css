@@ -18,12 +18,10 @@
 }
 
 .gray{
-    background-color: rgb(192, 192, 192);
-    color: white;
+    color: red;
 }
 
 .red {
-    background-color: rgb(255, 255, 255);
     color: #c1121f;
 }
 
