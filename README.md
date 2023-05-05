@@ -17,7 +17,7 @@ O que aprendi e utilizei:
 # Dia 2 - Loader animado
 O que aprendi e utilizei:
 * Animações CSS
-* ::before e ::after
+* :before e :after
 * calc()
 
 ![Design sem nome](https://user-images.githubusercontent.com/69852246/235758939-6bcae660-d0d2-4276-b91a-d1b046a4c049.gif)
@@ -32,12 +32,19 @@ O que aprendi e utilizei:
 # Dia 4 - Botão com efeito
 O que aprendi e utilizei:
 * Transições CSS
-* :hover::before
+* :hover:before
 
 ![4](https://user-images.githubusercontent.com/69852246/236290661-08129010-d6e5-42b3-995b-a06720bb83be.gif)
 
 
 # Dia 5 - Efeito pulsar
+O que aprendi e utilizei:
+* Transform
+* Animações css
+* :after
+
+![Design sem nome](https://user-images.githubusercontent.com/69852246/236520990-264ae5a2-ef03-40d2-a7bf-b725d50289d7.gif)
+
 # Dia 6 - Efeito lightning text
 # Dia 7 - Loaders variados
 # Dia 8 - Mudança de cor de texto quando entra em outra div
