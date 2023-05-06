@@ -9,7 +9,7 @@ O que aprendi e utilizei:
 * Transições CSS
 * Construção de camadas
 * hover
-* nth-child ()
+* nth-child
 * Transform
 
 ![Design sem nome](https://user-images.githubusercontent.com/69852246/235525805-7bace409-5211-4cf4-985e-fa97f9000dc8.gif)
@@ -17,8 +17,8 @@ O que aprendi e utilizei:
 # Dia 2 - Loader animado
 O que aprendi e utilizei:
 * Animações CSS
-* :before e :after
-* calc()
+* before e after
+* calc
 
 ![Design sem nome](https://user-images.githubusercontent.com/69852246/235758939-6bcae660-d0d2-4276-b91a-d1b046a4c049.gif)
 
@@ -32,7 +32,7 @@ O que aprendi e utilizei:
 # Dia 4 - Botão com efeito
 O que aprendi e utilizei:
 * Transições CSS
-* :hover:before
+* hover before
 
 ![4](https://user-images.githubusercontent.com/69852246/236290661-08129010-d6e5-42b3-995b-a06720bb83be.gif)
 
@@ -41,11 +41,18 @@ O que aprendi e utilizei:
 O que aprendi e utilizei:
 * Transform
 * Animações css
-* :after
+* after
 
 ![Design sem nome](https://user-images.githubusercontent.com/69852246/236520990-264ae5a2-ef03-40d2-a7bf-b725d50289d7.gif)
 
 # Dia 6 - Efeito lightning text
+O que aprendi e utilizei:
+* Animação CSS
+* nth-of-type
+* text-shadow
+
+![6](https://user-images.githubusercontent.com/69852246/236642703-43ec36bf-f6fa-48d7-b886-814cc20eaad9.gif)
+
 # Dia 7 - Loaders variados
 # Dia 8 - Mudança de cor de texto quando entra em outra div
 # Dia 9 - Indicador de carregamento

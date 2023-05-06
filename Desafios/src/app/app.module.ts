@@ -11,6 +11,7 @@ import { Loader1Component } from './components/day-2/loader1/loader1.component';
 import { ColorsComponent } from './components/day-3/colors/colors.component';
 import { Button1Component } from './components/day-4/button1/button1.component';
 import { HeartComponent } from './components/day-5/heart/heart.component';
+import { LightComponent } from './components/day-6/light/light.component';
 
 @NgModule({
   declarations: [
@@ -21,6 +22,7 @@ import { HeartComponent } from './components/day-5/heart/heart.component';
     HomeComponent,
     Button1Component,
     HeartComponent,
+    LightComponent,
   ],
   imports: [
     BrowserModule,

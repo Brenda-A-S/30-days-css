@@ -1,0 +1,31 @@
+.container {
+    color: gray;
+    font-family: 'nunito';
+    font-size: 5rem;
+    text-transform: uppercase;
+}
+
+.container span {
+    animation: light 2s ease-in-out infinite;
+}
+
+.container span:nth-of-type(2){
+    animation-delay: .25s;
+}
+.container span:nth-of-type(3){
+    animation-delay: .5s;
+}
+.container span:nth-of-type(4){
+    animation-delay: .75s;
+}
+
+@keyframes light {
+    0%{
+        color: white;
+        text-shadow: 0 0 12px rgb(7, 129, 243), 0 0 50px rgb(7, 129, 243), 0 0 100px rgb(7, 129, 243);
+    }
+    10%, 90%{
+        color: gray;
+        text-shadow: none;
+    }
+}
