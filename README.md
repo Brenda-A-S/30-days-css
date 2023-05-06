@@ -45,7 +45,7 @@ O que aprendi e utilizei:
 
 ![Design sem nome](https://user-images.githubusercontent.com/69852246/236520990-264ae5a2-ef03-40d2-a7bf-b725d50289d7.gif)
 
-# Dia 6 - Efeito lightning text
+# Dia 6 - Texto brilhando
 O que aprendi e utilizei:
 * Animação CSS
 * nth-of-type
