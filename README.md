@@ -64,7 +64,7 @@ O que aprendi e utilizei:
 * Animação CSS
 * Background-clip
 
-![8](https://user-images.githubusercontent.com/69852246/236901543-7a5f9dac-d0de-496c-b9bc-80e1a7a0a045.gif)
+![8](https://user-images.githubusercontent.com/69852246/236902707-c4dea93c-5827-447e-99f3-82dff2590f42.gif)
 
 # Dia 9 - Indicador de carregamento
 # Dia 10 - 
