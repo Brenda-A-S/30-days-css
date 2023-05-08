@@ -54,18 +54,22 @@ O que aprendi e utilizei:
 ![6](https://user-images.githubusercontent.com/69852246/236642703-43ec36bf-f6fa-48d7-b886-814cc20eaad9.gif)
 
 # Dia 7 - Texto esfumaçado
-* Transition e Transition Delay 
+* Transição e Transição Delay 
 * Filter blur
 * Rotate e translate
-* Hover
 
 ![7](https://user-images.githubusercontent.com/69852246/236712437-28d2b404-c848-41df-a50b-deeae8a49911.gif)
 
-# Dia 8 - Botão com efeito
+# Dia 8 - Texto com gradiente animado
+* Animação CSS
+* Background-clip
+
+![8](https://user-images.githubusercontent.com/69852246/236901543-7a5f9dac-d0de-496c-b9bc-80e1a7a0a045.gif)
+
 # Dia 9 - Indicador de carregamento
-# Dia 10 - Botão de coração
+# Dia 10 - 
 # Dia 11 - Cards com animação flip
-# Dia 12 - Efeito de preenchimento ao passar o mouse
+# Dia 12 - Botão de coração
 # Dia 13 - Loading com efeito
 # Dia 14 - Fundo de texto animado
 # Dia 15 - Texto flutuante

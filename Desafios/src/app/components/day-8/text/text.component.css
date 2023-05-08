@@ -1,0 +1,31 @@
+p {
+    font-size: 2rem;
+    font-family: cursive;
+    font-weight: bold;
+    position: relative;   
+    text-transform: uppercase;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-image: linear-gradient(45deg, #ffd6ff, #e7c6ff, #c8b6ff, #b8c0ff, #bbd0ff);
+    background-size: 400% 400%;
+    animation: bg 10s alternate infinite;
+}
+p:hover {
+    background-image: linear-gradient(45deg, #fdc5f5, #f7aef8, #b388eb, #8093f1, #72ddf7);
+    cursor: pointer;
+}
+
+
+@keyframes bg {
+    0%{
+        background-position: 0% 50%;
+    }
+    50%{
+        background-position: 100% 50%;        
+    }
+    100%{
+        background-position: 0% 50%;       
+
+    }
+}

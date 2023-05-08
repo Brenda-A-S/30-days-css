@@ -13,6 +13,7 @@ import { Button1Component } from './components/day-4/button1/button1.component';
 import { HeartComponent } from './components/day-5/heart/heart.component';
 import { LightComponent } from './components/day-6/light/light.component';
 import { TitleComponent } from './components/day-7/title/title.component';
+import { TextComponent } from './components/day-8/text/text.component';
 
 @NgModule({
   declarations: [
@@ -25,6 +26,7 @@ import { TitleComponent } from './components/day-7/title/title.component';
     HeartComponent,
     LightComponent,
     TitleComponent,
+    TextComponent,
   ],
   imports: [
     BrowserModule,
