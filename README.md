@@ -53,7 +53,7 @@ O que aprendi e utilizei:
 
 ![6](https://user-images.githubusercontent.com/69852246/236642703-43ec36bf-f6fa-48d7-b886-814cc20eaad9.gif)
 
-# Dia 7 - Texto esfumaçando
+# Dia 7 - Texto esfumaçado
 * Transition e Transition Delay 
 * Filter blur
 * Rotate e translate
