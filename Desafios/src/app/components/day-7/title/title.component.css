@@ -1,0 +1,25 @@
+.container span {
+    color: rgb(51, 62, 212);
+    font-size: 6rem;
+    font-family: 'nunito';
+    font-weight: 600;
+    transition: 2s;
+}
+.container:hover span {
+    transform: rotate(45deg) translateY(-200px);
+    opacity: 0;
+    filter: blur(20px);
+}
+
+.container span:nth-child(1){
+    transition-delay: 0;
+}
+.container span:nth-child(2){
+    transition-delay: .4s;
+}
+.container span:nth-child(3){
+    transition-delay: .8s;
+}
+.container span:nth-child(4){
+    transition-delay: 1.2s;
+}
