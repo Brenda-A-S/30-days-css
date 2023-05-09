@@ -17,6 +17,14 @@
     font-family: 'Nunito', sans-serif;
 }
 
+.big-title {
+    position: absolute;
+    top: 25%;
+    left: 33%;
+    font-family: 'Nunito', sans-serif;
+    font-size: 6rem;
+}
+
 .gray{
     color: red;
 }
@@ -29,7 +37,12 @@
     color: slateblue;
 }
 
-.dark {
+.dark-white {
     color: #fff;
+    background-color: #111;
+}
+
+.dark-gray {    
+    color: #b1b1b1;
     background-color: #111;
 }

@@ -1,0 +1,26 @@
+.container__rain {
+    width: 98vw;
+    height: 100vh;
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+}
+
+.container__rain span{
+    width: 1px;
+    height: 4px;
+    background-color: rgb(160, 160, 160);
+    animation: rain calc(25s / var(--i)) linear infinite;
+}
+
+@keyframes rain{
+    0%{
+        transform: translateY(0) scale(1);
+    }
+    70%{
+        transform: translateY(98vh) scale(1);
+    }
+    100%{
+        transform: translateY(99vh) scale(0);
+    }
+}

@@ -63,19 +63,25 @@ O que aprendi e utilizei:
 # Dia 8 - Texto com gradiente animado
 * Animação CSS
 * Background-clip
+* Text fill color
 
 ![8](https://user-images.githubusercontent.com/69852246/236902707-c4dea93c-5827-447e-99f3-82dff2590f42.gif)
 
-# Dia 9 - Indicador de carregamento
-# Dia 10 - 
+# Dia 9 - Efeito de Chuva
+* Animação CSS + calc
+* Var
+
+![9](https://github.com/Brenda-A-S/30-days-css/assets/69852246/f24ee5b5-8771-48fb-a25a-86ba17d3171d)
+
+# Dia 10 - Icones com efeito
 # Dia 11 - Cards com animação flip
 # Dia 12 - Botão de coração
 # Dia 13 - Loading com efeito
 # Dia 14 - Fundo de texto animado
 # Dia 15 - Texto flutuante
 # Dia 16 - Barra de progresso
-# Dia 17 - Icones com efeito
-# Dia 18 - Texto esfumaçado
+# Dia 17 - 
+# Dia 18 - 
 # Dia 19 - Menu hamburguer
 # Dia 20 - Efeito de digitação
 # Dia 21 - Esferas quicando
