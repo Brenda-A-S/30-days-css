@@ -73,7 +73,12 @@ O que aprendi e utilizei:
 
 ![9](https://github.com/Brenda-A-S/30-days-css/assets/69852246/f24ee5b5-8771-48fb-a25a-86ba17d3171d)
 
-# Dia 10 - Icones com efeito
+# Dia 10 - Ícones com efeito
+* Animação CSS
+* Hover
+
+![10](https://github.com/Brenda-A-S/30-days-css/assets/69852246/b99e1cb7-d4fc-4dc1-a86b-adb6f1084457)
+
 # Dia 11 - Cards com animação flip
 # Dia 12 - Botão de coração
 # Dia 13 - Loading com efeito
