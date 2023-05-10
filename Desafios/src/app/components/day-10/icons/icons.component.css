@@ -1,0 +1,58 @@
+.container__icon {
+    width: 45px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+    position: relative;
+}
+
+.container__icon:hover {
+    width: 50px;
+    height: 50px;
+}
+
+.container__icon, .container__icon:hover .border {
+    border: 1px solid #141414;
+    border-radius: 50%;
+}
+
+.container__icon:hover .border {
+    border-style: dashed;
+    animation: spin 1s infinite;  
+}
+
+.border {  
+    width: 95%;
+    height: 95%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container__icon:hover .bg-color {
+    border-radius: 50%;
+    background-color: #141414;
+    width: 90%;
+    height: 90%;
+}
+
+.container__icon img {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 21%;
+    left: 23%;
+    transition: .5s;
+}
+
+.container__icon:hover img {
+    filter: invert(100%);
+}
+
+@keyframes spin {
+    to{
+        rotate: 100deg;
+    }
+}

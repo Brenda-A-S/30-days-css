@@ -15,6 +15,7 @@ import { LightComponent } from './components/day-6/light/light.component';
 import { TitleComponent } from './components/day-7/title/title.component';
 import { TextComponent } from './components/day-8/text/text.component';
 import { RainComponent } from './components/day-9/rain/rain.component';
+import { IconsComponent } from './components/day-10/icons/icons.component';
 
 @NgModule({
   declarations: [
@@ -29,6 +30,7 @@ import { RainComponent } from './components/day-9/rain/rain.component';
     TitleComponent,
     TextComponent,
     RainComponent,
+    IconsComponent,
   ],
   imports: [
     BrowserModule,
