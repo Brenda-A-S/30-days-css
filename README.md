@@ -80,6 +80,13 @@ O que aprendi e utilizei:
 ![10](https://github.com/Brenda-A-S/30-days-css/assets/69852246/b99e1cb7-d4fc-4dc1-a86b-adb6f1084457)
 
 # Dia 11 - Cards com animação flip
+* Perspective
+* Transform-style
+* Transform RotateY
+* Backface Visibility
+
+![11](https://github.com/Brenda-A-S/30-days-css/assets/69852246/0619311c-e9f7-4d2c-bab5-7223929b156f)
+
 # Dia 12 - Botão de coração
 # Dia 13 - Loading com efeito
 # Dia 14 - Fundo de texto animado
