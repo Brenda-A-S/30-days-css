@@ -96,7 +96,14 @@ O que aprendi e utilizei:
 ![12](https://github.com/Brenda-A-S/30-days-css/assets/69852246/ba55541b-ebd6-44a2-b593-9a028082c52d)
 
 
-# Dia 13 - Botão de coração
+# Dia 13 - Botão checkbox de coração
+* Before e After
+* Input:checked
+* Seletor de irmãos adjacentes '+'
+* Transform rotate, translateY e translateX
+
+![13](https://github.com/Brenda-A-S/30-days-css/assets/69852246/8b4924bd-fc89-4ca4-8e96-90ccd2ec9a80)
+
 # Dia 14 - Fundo de texto animado
 # Dia 15 - Texto flutuante
 # Dia 16 - Barra de progresso
