@@ -102,7 +102,7 @@ O que aprendi e utilizei:
 * Seletor de irmãos adjacentes '+'
 * Transform rotate, translateY e translateX
 
-![13](https://github.com/Brenda-A-S/30-days-css/assets/69852246/8b4924bd-fc89-4ca4-8e96-90ccd2ec9a80)
+![13](https://github.com/Brenda-A-S/30-days-css/assets/69852246/81459c23-c36d-48ff-93ac-71d5b45918c6)
 
 # Dia 14 - Fundo de texto animado
 # Dia 15 - Texto flutuante
