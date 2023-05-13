@@ -81,28 +81,31 @@ O que aprendi e utilizei:
 
 # Dia 11 - Cards com animação flip
 * Perspective
-* Transform-style
+* Transform style
 * Transform RotateY
 * Backface Visibility
 
 ![11](https://github.com/Brenda-A-S/30-days-css/assets/69852246/0619311c-e9f7-4d2c-bab5-7223929b156f)
 
-# Dia 12 - Botão de coração
-# Dia 13 - Loading com efeito
+# Dia 12 - Menu com efeito hover
+
+
+
+# Dia 13 - Botão de coração
 # Dia 14 - Fundo de texto animado
 # Dia 15 - Texto flutuante
 # Dia 16 - Barra de progresso
-# Dia 17 - 
+# Dia 17 - Loading com efeito
 # Dia 18 - 
 # Dia 19 - Menu hamburguer
 # Dia 20 - Efeito de digitação
 # Dia 21 - Esferas quicando
 # Dia 22 - Preloader animado
-# Dia 23 - Slider de imagens
-# Dia 24 - Tela de login
+# Dia 23 - Tela de login
+# Dia 24 - Slider de imagens
 # Dia 25 - Checkbox animado
 # Dia 26 - Carousel CSS
 # Dia 27 - Footer totalmente responsivo
-# Dia 28 - Formulário de login
+# Dia 28 - Tela de login e cadastro
 # Dia 29 - Menu responsivo com Media Queries
 # Dia 30 - Fogos de artificio

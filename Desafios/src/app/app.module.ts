@@ -17,6 +17,7 @@ import { TextComponent } from './components/day-8/text/text.component';
 import { RainComponent } from './components/day-9/rain/rain.component';
 import { IconsComponent } from './components/day-10/icons/icons.component';
 import { CardComponent } from './components/day-11/card/card.component';
+import { MenuHoverComponent } from './components/day-12/menu-hover/menu-hover.component';
 
 @NgModule({
   declarations: [
@@ -33,6 +34,7 @@ import { CardComponent } from './components/day-11/card/card.component';
     RainComponent,
     IconsComponent,
     CardComponent,
+    MenuHoverComponent,
   ],
   imports: [
     BrowserModule,
