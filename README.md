@@ -88,7 +88,12 @@ O que aprendi e utilizei:
 ![11](https://github.com/Brenda-A-S/30-days-css/assets/69852246/0619311c-e9f7-4d2c-bab5-7223929b156f)
 
 # Dia 12 - Menu com efeito hover
+* Hover
+* Transition CSS
+* Before e after
+* Transform scale
 
+![12](https://github.com/Brenda-A-S/30-days-css/assets/69852246/ba55541b-ebd6-44a2-b593-9a028082c52d)
 
 
 # Dia 13 - Botão de coração
