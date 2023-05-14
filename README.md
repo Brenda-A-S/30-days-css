@@ -104,7 +104,13 @@ O que aprendi e utilizei:
 
 ![13](https://github.com/Brenda-A-S/30-days-css/assets/69852246/81459c23-c36d-48ff-93ac-71d5b45918c6)
 
-# Dia 14 - Fundo de texto animado
+# Dia 14 - Imagens que expandem
+* Overflow hidden
+* Position relative e absolute
+* Hover
+
+![14](https://github.com/Brenda-A-S/30-days-css/assets/69852246/12dc0fce-ab18-4ef5-b574-2769f676225e)
+
 # Dia 15 - Texto flutuante
 # Dia 16 - Barra de progresso
 # Dia 17 - Loading com efeito

@@ -19,6 +19,7 @@ import { IconsComponent } from './components/day-10/icons/icons.component';
 import { CardComponent } from './components/day-11/card/card.component';
 import { MenuHoverComponent } from './components/day-12/menu-hover/menu-hover.component';
 import { HeartButtonComponent } from './components/day-13/heart-button/heart-button.component';
+import { ImgsExpandComponent } from './components/day-14/imgs-expand/imgs-expand.component';
 
 @NgModule({
   declarations: [
@@ -37,6 +38,7 @@ import { HeartButtonComponent } from './components/day-13/heart-button/heart-but
     CardComponent,
     MenuHoverComponent,
     HeartButtonComponent,
+    ImgsExpandComponent,
   ],
   imports: [
     BrowserModule,
