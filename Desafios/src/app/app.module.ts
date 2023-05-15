@@ -20,6 +20,7 @@ import { CardComponent } from './components/day-11/card/card.component';
 import { MenuHoverComponent } from './components/day-12/menu-hover/menu-hover.component';
 import { HeartButtonComponent } from './components/day-13/heart-button/heart-button.component';
 import { ImgsExpandComponent } from './components/day-14/imgs-expand/imgs-expand.component';
+import { FloatTextComponent } from './components/day-15/float-text/float-text.component';
 
 @NgModule({
   declarations: [
@@ -39,6 +40,7 @@ import { ImgsExpandComponent } from './components/day-14/imgs-expand/imgs-expand
     MenuHoverComponent,
     HeartButtonComponent,
     ImgsExpandComponent,
+    FloatTextComponent,
   ],
   imports: [
     BrowserModule,
