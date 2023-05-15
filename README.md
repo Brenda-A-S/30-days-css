@@ -112,6 +112,11 @@ O que aprendi e utilizei:
 ![14](https://github.com/Brenda-A-S/30-days-css/assets/69852246/12dc0fce-ab18-4ef5-b574-2769f676225e)
 
 # Dia 15 - Texto flutuante
+* Animação CSS
+* Var
+
+![15](https://github.com/Brenda-A-S/30-days-css/assets/69852246/dd1cb82e-3fa8-419c-af81-a5aa98b4c187)
+
 # Dia 16 - Barra de progresso
 # Dia 17 - Loading com efeito
 # Dia 18 - 
