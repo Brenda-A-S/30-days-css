@@ -118,6 +118,13 @@ O que aprendi e utilizei:
 ![15](https://github.com/Brenda-A-S/30-days-css/assets/69852246/dd1cb82e-3fa8-419c-af81-a5aa98b4c187)
 
 # Dia 16 - Card com efeito de livro
+* Hover
+* Perspective
+* Transform rotateX
+* Transform origin
+
+![16](https://github.com/Brenda-A-S/30-days-css/assets/69852246/83fa4adc-522f-446a-8621-616083a27e6c)
+
 # Dia 17 - 
 # Dia 18 - Efeito de digitação
 # Dia 19 - Loading com efeito
