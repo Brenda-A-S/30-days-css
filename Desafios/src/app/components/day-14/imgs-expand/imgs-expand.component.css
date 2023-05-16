@@ -7,9 +7,8 @@
 }
 
 .container .img {
-    width: 200px;
-    height: 200px;
-    background-color: aquamarine;
+    width: 300px;
+    height: 300px;
     overflow: hidden;    
     border-radius: 20px; 
     display: flex;
@@ -20,12 +19,14 @@
 }
 
 .container img { 
-    width: 350px;
-    height: 250px;
+    object-fit: cover;
+    object-position: center;
+    width: 550px;
+    min-height: 350px;
     position: absolute;
 }
 
 .container .img:hover {
-    width: 350px;
-    height: 250px;
+    width: 450px;
+    height: 350px;
 }

@@ -1,0 +1,42 @@
+.container__book {
+    position: relative;
+    width: 300px;
+    height: 350px;
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family:cursive;
+    color: #b35e57;
+    perspective: 2000px;
+    cursor: pointer;
+    box-shadow: 0px 0px 10px #50242c;
+    text-transform: uppercase;
+}
+
+.container__book img  {
+    min-width: 100px;
+    width: 100%;
+}
+
+.cover {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #ffe1e7;
+    border-radius: 20px;
+    transition: .5s;
+    transform-origin: bottom left;    
+    color: #721a17;
+    box-shadow: 0px 0px 10px #a54e5e8a;
+}
+
+.container__book:hover .cover {
+    transform: rotateY(-80deg);
+}

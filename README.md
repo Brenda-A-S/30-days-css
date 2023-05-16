@@ -117,11 +117,11 @@ O que aprendi e utilizei:
 
 ![15](https://github.com/Brenda-A-S/30-days-css/assets/69852246/dd1cb82e-3fa8-419c-af81-a5aa98b4c187)
 
-# Dia 16 - Barra de progresso
-# Dia 17 - Loading com efeito
-# Dia 18 - 
-# Dia 19 - Menu hamburguer
-# Dia 20 - Efeito de digitação
+# Dia 16 - Card com efeito de livro
+# Dia 17 - 
+# Dia 18 - Efeito de digitação
+# Dia 19 - Loading com efeito
+# Dia 20 - Menu hamburguer
 # Dia 21 - Esferas quicando
 # Dia 22 - Preloader animado
 # Dia 23 - Tela de login
