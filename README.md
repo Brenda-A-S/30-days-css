@@ -139,7 +139,12 @@ O que aprendi e utilizei:
 
 ![18](https://github.com/Brenda-A-S/30-days-css/assets/69852246/759ed92e-4705-42ad-b4e2-3a79387c3f39)
 
-# Dia 19 - 
+# Dia 19 - Barra de pesquisa
+* :is
+* :focus-within
+
+![19](https://github.com/Brenda-A-S/30-days-css/assets/69852246/1db42d6b-dab6-40ab-a908-b55a56b039e9)
+
 # Dia 20 - Menu hamburguer
 # Dia 21 - 
 # Dia 22 - Preloader animado

@@ -1,0 +1,36 @@
+.search {
+    display: inline-flex;
+    align-items: center;
+    background-image: linear-gradient(90deg, whitesmoke, white);
+    color: #141414;
+    box-shadow: 0px 0px 5px #1414144b;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.search :is(input, button) {
+    background: transparent;
+    border: none;
+    outline: none;
+}
+
+.search input{
+    width: 0px;
+    opacity: 0;
+    transition: .5s;
+}
+
+.search button {
+    display: grid;
+    place-items: center;
+}
+
+.search button img {
+    width: 25px;
+    cursor: pointer;
+}
+
+.search:focus-within input {
+    width: 200px;
+    opacity: 1;
+}

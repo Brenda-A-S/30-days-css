@@ -24,6 +24,7 @@ import { FloatTextComponent } from './components/day-15/float-text/float-text.co
 import { BookComponent } from './components/day-16/book/book.component';
 import { MarqueeComponent } from './components/day-17/marquee/marquee.component';
 import { TipingComponent } from './components/day-18/tiping/tiping.component';
+import { SearchComponent } from './components/day-19/search/search.component';
 
 @NgModule({
   declarations: [
@@ -47,6 +48,7 @@ import { TipingComponent } from './components/day-18/tiping/tiping.component';
     BookComponent,
     MarqueeComponent,
     TipingComponent,
+    SearchComponent,
   ],
   imports: [
     BrowserModule,
