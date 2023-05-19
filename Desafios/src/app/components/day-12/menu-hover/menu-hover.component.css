@@ -8,18 +8,18 @@ ul {
 
 ul li {
     position: relative;
-    width: 30px;
-    height: 30px;
+    width: 40px;
+    height: 40px;
     display: flex;
     justify-content: center;
     align-items: center;
-    box-shadow: 2px 2px 15px #00000041;
+    box-shadow: 2px 2px 15px rgba(245, 245, 245, 0.233);
     border-radius: 25px;
     transition: .5s;
 }
 
 ul li:hover {
-    width: 90px;
+    width: 120px;
     box-shadow: none;
 }
 
@@ -29,23 +29,11 @@ ul li::before {
     width: 100%;
     height: 100%;
     inset: 0;
-    background: linear-gradient(45deg, var(--cor1) 0%, var(--cor2)100%);
     cursor: pointer;
     border-radius: 25px;
     transition: .5s;
     opacity: 0;
-}
-
-ul li::after {
-    content: '';    
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(45deg, var(--cor1) 0%, var(--cor2)100%);
-    filter: blur(10px);
-    z-index: -1;
-    opacity: 0;
-    transition: .5s;
+    box-shadow: 2px 2px 15px rgba(245, 245, 245, 0.233);
 }
 
 ul li:hover::before {
@@ -72,6 +60,7 @@ ul li .title {
     transform: scale(0);
     transition: .5s;
     color: #fff;
+    z-index: 1;
 }
 
 ul li:hover .icon img {

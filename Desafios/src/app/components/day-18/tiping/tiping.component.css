@@ -1,0 +1,31 @@
+p {
+    border-right: 1px solid gray;
+    overflow: hidden;
+    white-space: nowrap;
+    text-align: center;
+    animation: blink 1s steps(10) infinite normal,
+    typing 2s steps(10) 1s normal both;
+    font-size: 4rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+}
+
+@keyframes typing {
+    from{
+        width: 0;
+    }
+    to{
+        width: 20rem;
+    }
+    
+}
+
+@keyframes blink {
+    from{
+        border-right-color: rgb(116, 116, 116);
+    }
+    to{
+        border-right-color: transparent;
+    }
+    
+}

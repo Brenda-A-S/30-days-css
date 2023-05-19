@@ -93,7 +93,7 @@ O que aprendi e utilizei:
 * Before e after
 * Transform scale
 
-![12](https://github.com/Brenda-A-S/30-days-css/assets/69852246/ba55541b-ebd6-44a2-b593-9a028082c52d)
+![12](https://github.com/Brenda-A-S/30-days-css/assets/69852246/0f4c1bab-53c6-4124-b71b-8bd0873bbc25)
 
 
 # Dia 13 - Botão checkbox de coração
@@ -125,17 +125,29 @@ O que aprendi e utilizei:
 
 ![16](https://github.com/Brenda-A-S/30-days-css/assets/69852246/83fa4adc-522f-446a-8621-616083a27e6c)
 
-# Dia 17 - 
+# Dia 17 - Texto trocando de cor de uma div para a outra
+* Animation CSS
+* Mix-blend-mode difference
+
+![17](https://github.com/Brenda-A-S/30-days-css/assets/69852246/533c8292-67e4-40ed-b042-99ae0e8f0c9f)
+
 # Dia 18 - Efeito de digitação
-# Dia 19 - Loading com efeito
+* Animations CSS
+* Overflow
+* Steps()
+* White-space
+
+![18](https://github.com/Brenda-A-S/30-days-css/assets/69852246/759ed92e-4705-42ad-b4e2-3a79387c3f39)
+
+# Dia 19 - 
 # Dia 20 - Menu hamburguer
-# Dia 21 - Esferas quicando
+# Dia 21 - 
 # Dia 22 - Preloader animado
 # Dia 23 - Tela de login
 # Dia 24 - Slider de imagens
 # Dia 25 - Checkbox animado
 # Dia 26 - Carousel CSS
-# Dia 27 - Footer totalmente responsivo
+# Dia 27 - Footer responsivo
 # Dia 28 - Tela de login e cadastro
-# Dia 29 - Menu responsivo com Media Queries
-# Dia 30 - Fogos de artificio
+# Dia 29 - Menu responsivo
+# Dia 30 - 

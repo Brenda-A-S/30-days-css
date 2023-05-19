@@ -22,6 +22,8 @@ import { HeartButtonComponent } from './components/day-13/heart-button/heart-but
 import { ImgsExpandComponent } from './components/day-14/imgs-expand/imgs-expand.component';
 import { FloatTextComponent } from './components/day-15/float-text/float-text.component';
 import { BookComponent } from './components/day-16/book/book.component';
+import { MarqueeComponent } from './components/day-17/marquee/marquee.component';
+import { TipingComponent } from './components/day-18/tiping/tiping.component';
 
 @NgModule({
   declarations: [
@@ -43,6 +45,8 @@ import { BookComponent } from './components/day-16/book/book.component';
     ImgsExpandComponent,
     FloatTextComponent,
     BookComponent,
+    MarqueeComponent,
+    TipingComponent,
   ],
   imports: [
     BrowserModule,
