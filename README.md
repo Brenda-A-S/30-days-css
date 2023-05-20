@@ -146,6 +146,12 @@ O que aprendi e utilizei:
 ![19](https://github.com/Brenda-A-S/30-days-css/assets/69852246/1db42d6b-dab6-40ab-a908-b55a56b039e9)
 
 # Dia 20 - Menu hamburguer
+* Seletores de irmãos '+' e '~'
+* :nth-child
+* Input:checked
+
+![20](https://github.com/Brenda-A-S/30-days-css/assets/69852246/5b17ae15-8b0d-47be-bf16-3155039c6ad1)
+
 # Dia 21 - 
 # Dia 22 - Preloader animado
 # Dia 23 - Tela de login

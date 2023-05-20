@@ -25,6 +25,7 @@ import { BookComponent } from './components/day-16/book/book.component';
 import { MarqueeComponent } from './components/day-17/marquee/marquee.component';
 import { TipingComponent } from './components/day-18/tiping/tiping.component';
 import { SearchComponent } from './components/day-19/search/search.component';
+import { MenuHamburguerComponent } from './components/day-20/menu-hamburguer/menu-hamburguer.component';
 
 @NgModule({
   declarations: [
@@ -49,6 +50,7 @@ import { SearchComponent } from './components/day-19/search/search.component';
     MarqueeComponent,
     TipingComponent,
     SearchComponent,
+    MenuHamburguerComponent,
   ],
   imports: [
     BrowserModule,
