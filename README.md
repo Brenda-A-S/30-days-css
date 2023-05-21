@@ -152,13 +152,18 @@ O que aprendi e utilizei:
 
 ![20](https://github.com/Brenda-A-S/30-days-css/assets/69852246/5b17ae15-8b0d-47be-bf16-3155039c6ad1)
 
-# Dia 21 - 
-# Dia 22 - Preloader animado
-# Dia 23 - Tela de login
+# Dia 21 - Tela de login
+* nth-child, focus-within e hover
+* apearence none
+
+![21](https://github.com/Brenda-A-S/30-days-css/assets/69852246/07579cf7-5126-4780-a6c9-db9f7e926e0b)
+
+# Dia 22 - 
+# Dia 23 - 
 # Dia 24 - Slider de imagens
 # Dia 25 - Checkbox animado
 # Dia 26 - Carousel CSS
 # Dia 27 - Footer responsivo
-# Dia 28 - Tela de login e cadastro
+# Dia 28 - 
 # Dia 29 - Menu responsivo
 # Dia 30 - 

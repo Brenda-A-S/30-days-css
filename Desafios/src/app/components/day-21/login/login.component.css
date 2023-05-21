@@ -1,0 +1,116 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 500px;
+    max-height: 500px;
+    width: 100%;
+    background-color: rgb(247, 246, 255);
+    padding: 30px;
+    border-radius: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: slateblue;
+    gap: 15px;
+    box-shadow: 0px 0px 5px rgba(105, 90, 205, 0.589);
+}
+
+.input {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px;
+}
+
+.input input {
+    border-radius: 10px;
+    border: 1px solid rgb(229, 225, 255);
+    height: 30px;
+    padding: 5px;
+    min-width: 300px;
+}
+
+.input input:focus-within,
+.input input:hover {
+    outline: 1px solid slateblue;
+}
+
+.recovery,
+.button {
+    display: flex;
+    justify-content: space-around;
+}
+
+.button {
+    display: grid;
+    grid-template-columns: .4fr .5fr;
+}
+
+.button button {
+    border: none;
+    padding: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.button button:nth-child(1) {
+    background-color: whitesmoke;
+    color: slateblue;
+    box-shadow: 0px 0px 5px rgba(152, 136, 255, 0.473);
+}
+
+.button button:nth-child(2) {
+    background-color: slateblue;
+    color: whitesmoke;
+    box-shadow: 0px 0px 5px rgba(105, 90, 205, 0.473);
+}
+
+.button button:nth-child(1):hover {
+    background-color: rgb(215, 209, 255);
+    box-shadow: 0px 0px 5px #bebebe;
+}
+
+.button button:nth-child(2):hover {
+    background-color: rgb(86, 74, 165);
+    box-shadow: 0px 0px 5px #bebebe;
+}
+
+.recover a,
+.create a {
+    text-decoration: none;
+    color: slateblue;
+}
+
+.remember,
+.recover {
+
+    font-size: .8rem;
+}
+
+.remember label,
+.remember input {
+    cursor: pointer;
+}
+
+.recover a:hover,
+.remember:hover {
+    color: rgb(123, 107, 223);
+}
+
+.remember {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.remember input {
+    appearance:none;
+    border: 1px solid slateblue;
+    width: 12px;
+    height: 12px;
+    border-radius: 2px;
+}
+
+.remember input:checked {
+    background-color: slateblue;
+}
