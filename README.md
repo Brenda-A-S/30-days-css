@@ -165,7 +165,7 @@ O que aprendi e utilizei:
 * :hover, :has, :nth-child e :checked
 * Seletores de irmãos '~'
 
-
+https://github.com/Brenda-A-S/30-days-css/assets/69852246/873bd5ce-7343-4f3a-a6e9-4dd5a7ac6fd9
 
 # Dia 23 - Checkbox animado
 # Dia 24 - 
