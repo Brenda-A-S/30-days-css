@@ -1,0 +1,88 @@
+.container {
+    height: 520px;
+    width: 935px;
+    border-radius: 50px;
+    overflow: hidden;
+    position: relative;
+}
+
+.container .slide img {
+    height: 100%;
+    width: 100%;
+}
+
+.labels {
+    position: absolute;
+    bottom: 10px;
+    left: 43%;
+    display: flex;
+}
+
+.button {
+    width: 15px;
+    height: 15px;
+    border: 2px solid white;
+    margin: 6px;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: .5s ease;
+}
+
+.button:hover {
+    background-color: white;
+}
+
+input {
+  display: none;
+}
+
+.slides {
+    display: flex;
+    width: 500%;
+    height: 100%;
+}
+
+.slide {
+    width: 20%;
+    transition: .6s ease-in-out;
+}
+
+#slide1:checked ~ .s1 {
+    margin-left: 0;
+} 
+
+#slide2:checked ~ .s1 {
+    margin-left: -20%;
+} 
+
+#slide3:checked ~ .s1 {
+    margin-left: -40%;
+} 
+
+#slide4:checked ~ .s1 {
+    margin-left: -60%;
+} 
+
+#slide5:checked ~ .s1 {
+    margin-left: -80%;
+} 
+
+.slides:has(#slide1:checked)  ~ .labels label:nth-child(1){
+    background-color: aliceblue;
+} 
+
+.slides:has(#slide2:checked)  ~ .labels label:nth-child(2){
+    background-color: aliceblue;
+} 
+
+.slides:has(#slide3:checked)  ~ .labels label:nth-child(3){
+    background-color: aliceblue;
+} 
+
+.slides:has(#slide4:checked)  ~ .labels label:nth-child(4){
+    background-color: aliceblue;
+} 
+
+.slides:has(#slide5:checked)  ~ .labels label:nth-child(5){
+    background-color: aliceblue;
+} 

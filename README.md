@@ -158,12 +158,20 @@ O que aprendi e utilizei:
 
 ![21](https://github.com/Brenda-A-S/30-days-css/assets/69852246/07579cf7-5126-4780-a6c9-db9f7e926e0b)
 
-# Dia 22 - 
-# Dia 23 - 
-# Dia 24 - Slider de imagens
-# Dia 25 - Checkbox animado
-# Dia 26 - Carousel CSS
-# Dia 27 - Footer responsivo
-# Dia 28 - 
+# Dia 22 - Slider de imagens
+* Overflow hidden
+* Input radio & label
+* Position relative e absolute
+* :hover, :has, :nth-child e :checked
+* Seletores de irmãos '~'
+
+
+
+# Dia 23 - Checkbox animado
+# Dia 24 - 
+# Dia 25 - Carousel CSS
+# Dia 26 - 
+# Dia 27 - 
+# Dia 28 - Footer responsivo
 # Dia 29 - Menu responsivo
 # Dia 30 - 
