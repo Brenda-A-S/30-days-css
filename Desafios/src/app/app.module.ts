@@ -28,6 +28,7 @@ import { SearchComponent } from './components/day-19/search/search.component';
 import { MenuHamburguerComponent } from './components/day-20/menu-hamburguer/menu-hamburguer.component';
 import { LoginComponent } from './components/day-21/login/login.component';
 import { SliderComponent } from './components/day-22/slider/slider.component';
+import { DarkmodeButtonComponent } from './components/day-23/darkmode-button/darkmode-button.component';
 
 @NgModule({
   declarations: [
@@ -55,6 +56,7 @@ import { SliderComponent } from './components/day-22/slider/slider.component';
     MenuHamburguerComponent,
     LoginComponent,
     SliderComponent,
+    DarkmodeButtonComponent,
   ],
   imports: [
     BrowserModule,

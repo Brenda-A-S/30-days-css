@@ -167,7 +167,12 @@ O que aprendi e utilizei:
 
 https://github.com/Brenda-A-S/30-days-css/assets/69852246/873bd5ce-7343-4f3a-a6e9-4dd5a7ac6fd9
 
-# Dia 23 - Checkbox animado
+# Dia 23 - Checkbox dark-mode
+* Label e input checkbox
+* :checked e :has
+* Transform scale e translateX
+* Transition
+
 # Dia 24 - 
 # Dia 25 - Carousel CSS
 # Dia 26 - 

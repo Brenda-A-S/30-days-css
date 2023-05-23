@@ -1,0 +1,61 @@
+.container {
+    background-color: aliceblue;
+    width: 50vw;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: .5s;
+}
+
+.fa-moon {
+    color: whitesmoke;
+}
+
+.fa-sun {
+    color: #141414;
+}
+
+#dark-mode-check {
+    display: none;
+}
+
+.label {
+    width: 60px;
+    height: 30px;
+    background-color: whitesmoke;
+    border-radius: 50px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    position: relative;
+    box-shadow: 0px 0px 5px #141414;
+}
+
+.label .ball {
+    background-color: #141414;
+    border-radius: 50%;
+    position: absolute;
+    top: 4px;
+    left: 5px;
+    height: 22px;
+    width: 22px;
+    transform: translateX(0px);
+    transition: 0.2s linear;
+  }
+  
+  #dark-mode-check:checked + .label .ball {
+    transform: translateX(25px);
+    background-color: whitesmoke;
+  }
+
+  #dark-mode-check:checked + .label {
+    background-color: #141414;
+  }
+
+  .container:has(#dark-mode-check:checked){
+    background-color: rgb(33, 70, 99);
+  }
+
+
