@@ -173,6 +173,8 @@ https://github.com/Brenda-A-S/30-days-css/assets/69852246/873bd5ce-7343-4f3a-a6e
 * Transform scale e translateX
 * Transition
 
+![23](https://github.com/Brenda-A-S/30-days-css/assets/69852246/0759fd20-9976-4d39-9a4d-909996ece863)
+
 # Dia 24 - 
 # Dia 25 - Carousel CSS
 # Dia 26 - 
