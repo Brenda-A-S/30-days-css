@@ -175,7 +175,13 @@ https://github.com/Brenda-A-S/30-days-css/assets/69852246/873bd5ce-7343-4f3a-a6e
 
 ![23](https://github.com/Brenda-A-S/30-days-css/assets/69852246/0759fd20-9976-4d39-9a4d-909996ece863)
 
-# Dia 24 - 
+# Dia 24 - Card expansível
+* Position relative e absolute
+* :hover
+* Transform translateY
+
+![24](https://github.com/Brenda-A-S/30-days-css/assets/69852246/3ae19872-460f-4207-a781-0aeae45d1ada)
+
 # Dia 25 - Carousel CSS
 # Dia 26 - 
 # Dia 27 - 
