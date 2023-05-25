@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: .5rem;
+
+}
+
+.container span {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    font-size: 5rem;
+    cursor: default;
+    color: slateblue;
+}
+
+.container span:hover {
+    transform: translateY(-1rem);
+    color: pink;
+    animation: colors 4s infinite;
+}
+

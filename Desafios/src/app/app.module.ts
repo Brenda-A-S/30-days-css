@@ -30,6 +30,7 @@ import { LoginComponent } from './components/day-21/login/login.component';
 import { SliderComponent } from './components/day-22/slider/slider.component';
 import { DarkmodeButtonComponent } from './components/day-23/darkmode-button/darkmode-button.component';
 import { ExpansiveCardComponent } from './components/day-24/expansive-card/expansive-card.component';
+import { TitleHoverComponent } from './components/day-25/title-hover/title-hover.component';
 
 @NgModule({
   declarations: [
@@ -59,6 +60,7 @@ import { ExpansiveCardComponent } from './components/day-24/expansive-card/expan
     SliderComponent,
     DarkmodeButtonComponent,
     ExpansiveCardComponent,
+    TitleHoverComponent,
   ],
   imports: [
     BrowserModule,

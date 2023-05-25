@@ -182,9 +182,14 @@ https://github.com/Brenda-A-S/30-days-css/assets/69852246/873bd5ce-7343-4f3a-a6e
 
 ![24](https://github.com/Brenda-A-S/30-days-css/assets/69852246/3ae19872-460f-4207-a781-0aeae45d1ada)
 
-# Dia 25 - Carousel CSS
-# Dia 26 - 
-# Dia 27 - 
+# Dia 25 - Título com hover
+* :hover
+* Transform translateY
+
+![25](https://github.com/Brenda-A-S/30-days-css/assets/69852246/c3f0c5a8-9a1c-426a-b931-207e5769329a)
+
+# Dia 26 - Card com hover
+# Dia 27 - Carousel CSS
 # Dia 28 - Footer responsivo
 # Dia 29 - Menu responsivo
 # Dia 30 - 
