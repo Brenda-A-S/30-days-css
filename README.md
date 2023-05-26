@@ -189,6 +189,12 @@ https://github.com/Brenda-A-S/30-days-css/assets/69852246/873bd5ce-7343-4f3a-a6e
 ![25](https://github.com/Brenda-A-S/30-days-css/assets/69852246/c3f0c5a8-9a1c-426a-b931-207e5769329a)
 
 # Dia 26 - Card com hover
+* Transform translateY, :hover e opacity
+* Filter brightness
+* Transition
+
+![26](https://github.com/Brenda-A-S/30-days-css/assets/69852246/32eb4e67-049b-4f64-8568-3c38bf3b88a5)
+
 # Dia 27 - Carousel CSS
 # Dia 28 - Footer responsivo
 # Dia 29 - Menu responsivo

@@ -31,6 +31,7 @@ import { SliderComponent } from './components/day-22/slider/slider.component';
 import { DarkmodeButtonComponent } from './components/day-23/darkmode-button/darkmode-button.component';
 import { ExpansiveCardComponent } from './components/day-24/expansive-card/expansive-card.component';
 import { TitleHoverComponent } from './components/day-25/title-hover/title-hover.component';
+import { SocialCardComponent } from './components/day-26/social-card/social-card.component';
 
 @NgModule({
   declarations: [
@@ -61,6 +62,7 @@ import { TitleHoverComponent } from './components/day-25/title-hover/title-hover
     DarkmodeButtonComponent,
     ExpansiveCardComponent,
     TitleHoverComponent,
+    SocialCardComponent,
   ],
   imports: [
     BrowserModule,
