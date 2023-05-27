@@ -1,0 +1,47 @@
+.container {
+    width: 75vw;
+    height: 90vh;
+    
+    box-shadow: 0px 0px 5px rgba(245, 245, 245, 0.322);
+
+    overflow: hidden;
+}
+.container:hover ul li {
+    animation-play-state: paused;
+    -webkit-animation-play-state: paused;
+}
+
+.container ul {
+    list-style: none;
+    display: flex;
+    width: 300vw;
+}
+
+.container ul li {
+    position: relative;
+    animation: carousel 10s infinite ease-in-out;
+    animation-play-state: running;
+}
+
+.container ul li img {
+    width: 75vw;
+    height: 90vh;
+}
+
+@keyframes carousel {
+    0%,
+    20%{
+        right: 0;
+    }
+    30%,
+    50%{
+        right: 75vw;
+    }
+    60%,
+    90%{
+        right: 150vw;
+    }
+    100%{
+        right: 0;
+    }
+}

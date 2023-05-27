@@ -195,7 +195,13 @@ https://github.com/Brenda-A-S/30-days-css/assets/69852246/873bd5ce-7343-4f3a-a6e
 
 ![26](https://github.com/Brenda-A-S/30-days-css/assets/69852246/32eb4e67-049b-4f64-8568-3c38bf3b88a5)
 
-# Dia 27 - Carousel CSS
+# Dia 27 - Slider CSS
+* Animação CSS
+* Overflow hidden
+* Animation play state paused
+
+https://github.com/Brenda-A-S/Brenda-A-S/assets/69852246/ccedf5bc-0027-4527-8b0c-7b3c8e786120
+
 # Dia 28 - Footer responsivo
 # Dia 29 - Menu responsivo
 # Dia 30 - 
