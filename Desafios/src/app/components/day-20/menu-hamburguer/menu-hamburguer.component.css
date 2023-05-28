@@ -27,7 +27,7 @@ label span{
     position: absolute;
     height: 5px;
     width: 100%;
-    background-color: black;
+    background-color: #141414;
     border-radius: 15px;
     transition: .5s;
 }
@@ -61,6 +61,7 @@ input:checked ~ nav {
 nav {
     opacity: 0;
     transition: all 1s;
+    margin-top: 10px;
 }
 
 ul{

@@ -23,6 +23,7 @@
 }
 
 .container__content {
+    width: 100%;
     height: 25vh;
     padding: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -30,6 +31,8 @@
     position: absolute;
     transform: translateY(25vh);
     background-color: #141414;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .container:hover .container__content {
@@ -37,10 +40,15 @@
     box-shadow: 0px 0px 5px #af81fe81;
 }
 
-
 .container__content h1  {
     padding-bottom: 10px;
     text-align: center;
     color: #af81fe;
+    font-size: 1.5rem;
 }
 
+.container__content p {
+    max-height: 9vh;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

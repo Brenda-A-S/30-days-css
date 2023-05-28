@@ -1,4 +1,5 @@
 .container {
+    width: 80vw;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -7,8 +8,8 @@
 }
 
 .container .img {
-    width: 300px;
-    height: 300px;
+    width: 33%;
+    height: 63%;
     overflow: hidden;    
     border-radius: 20px; 
     display: flex;
@@ -21,12 +22,15 @@
 .container img { 
     object-fit: cover;
     object-position: center;
-    width: 550px;
-    min-height: 350px;
+    width: 100%;
+    min-height: 50vh;
     position: absolute;
+    
+     
+    border-radius: 20px;
 }
 
 .container .img:hover {
-    width: 450px;
-    height: 350px;
+    width: 155%;
+    min-height: 90%;
 }

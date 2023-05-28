@@ -6,7 +6,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 20px;
+    gap: 30px;
     position: relative;
 }
 
@@ -41,4 +41,10 @@
 .dark-gray {    
     color: #b1b1b1;
     background-color: #111;
+}
+
+@media(max-width: 670px){
+    .container {
+        flex-direction: column;
+    }
 }

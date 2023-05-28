@@ -1,5 +1,6 @@
 .container{
     position: relative;
+    max-width: 98.9vw;
     width: 100%;
     height: 50vh;
     display: flex;

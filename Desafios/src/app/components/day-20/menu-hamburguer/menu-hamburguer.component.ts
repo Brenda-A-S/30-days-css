@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-menu-hamburguer',
@@ -6,6 +6,9 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./menu-hamburguer.component.css']
 })
 export class MenuHamburguerComponent implements OnInit {
+
+  @Input()
+  idcheckbox:string=''
 
   constructor() { }
 

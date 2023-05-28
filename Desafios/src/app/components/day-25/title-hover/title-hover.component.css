@@ -20,3 +20,8 @@
     animation: colors 4s infinite;
 }
 
+@media (max-width:500px) {
+    .container span {
+        font-size: 2.5rem;
+    }
+}

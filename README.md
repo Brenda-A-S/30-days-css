@@ -202,6 +202,11 @@ https://github.com/Brenda-A-S/30-days-css/assets/69852246/873bd5ce-7343-4f3a-a6e
 
 https://github.com/Brenda-A-S/Brenda-A-S/assets/69852246/ccedf5bc-0027-4527-8b0c-7b3c8e786120
 
-# Dia 28 - Footer responsivo
-# Dia 29 - Menu responsivo
+# Dia 28 - Menu responsivo
+* @media
+* app-menu-hamburguer - Dia 20
+
+![28](https://github.com/Brenda-A-S/30-days-css/assets/69852246/8a5841e1-2194-4fe1-8f50-db27ddb3f908)
+
+# Dia 29 - Footer responsivo
 # Dia 30 - 

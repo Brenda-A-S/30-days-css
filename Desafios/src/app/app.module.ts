@@ -15,7 +15,7 @@ import { LightComponent } from './components/day-6/light/light.component';
 import { TitleComponent } from './components/day-7/title/title.component';
 import { TextComponent } from './components/day-8/text/text.component';
 import { RainComponent } from './components/day-9/rain/rain.component';
-import { IconsComponent } from './components/day-10/icons/icons.component';
+import { IconsComponent } from './components/day-10/icons-component/icons.component';
 import { CardComponent } from './components/day-11/card/card.component';
 import { MenuHoverComponent } from './components/day-12/menu-hover/menu-hover.component';
 import { HeartButtonComponent } from './components/day-13/heart-button/heart-button.component';
@@ -33,6 +33,7 @@ import { ExpansiveCardComponent } from './components/day-24/expansive-card/expan
 import { TitleHoverComponent } from './components/day-25/title-hover/title-hover.component';
 import { SocialCardComponent } from './components/day-26/social-card/social-card.component';
 import { SliderCssComponent } from './components/day-27/slider-css/slider-css.component';
+import { ResponsiveMenuComponent } from './components/day-28/responsive-menu/responsive-menu.component';
 
 @NgModule({
   declarations: [
@@ -65,6 +66,7 @@ import { SliderCssComponent } from './components/day-27/slider-css/slider-css.co
     TitleHoverComponent,
     SocialCardComponent,
     SliderCssComponent,
+    ResponsiveMenuComponent,
   ],
   imports: [
     BrowserModule,
