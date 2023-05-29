@@ -3,7 +3,6 @@
     justify-content: center;
     align-items: center;
     gap: .5rem;
-
 }
 
 .container span {
@@ -12,6 +11,7 @@
     font-size: 5rem;
     cursor: default;
     color: slateblue;
+    transition: .2s;
 }
 
 .container span:hover {

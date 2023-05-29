@@ -209,4 +209,8 @@ https://github.com/Brenda-A-S/Brenda-A-S/assets/69852246/ccedf5bc-0027-4527-8b0c
 ![28](https://github.com/Brenda-A-S/30-days-css/assets/69852246/8a5841e1-2194-4fe1-8f50-db27ddb3f908)
 
 # Dia 29 - Footer responsivo
+* @media
+
+https://github.com/Brenda-A-S/30-days-css/assets/69852246/29870782-5ae0-454c-83ed-f017d6475a61
+
 # Dia 30 - 

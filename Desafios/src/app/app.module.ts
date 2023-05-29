@@ -34,6 +34,7 @@ import { TitleHoverComponent } from './components/day-25/title-hover/title-hover
 import { SocialCardComponent } from './components/day-26/social-card/social-card.component';
 import { SliderCssComponent } from './components/day-27/slider-css/slider-css.component';
 import { ResponsiveMenuComponent } from './components/day-28/responsive-menu/responsive-menu.component';
+import { ResponsiveFooterComponent } from './components/day-29/responsive-footer/responsive-footer.component';
 
 @NgModule({
   declarations: [
@@ -67,6 +68,7 @@ import { ResponsiveMenuComponent } from './components/day-28/responsive-menu/res
     SocialCardComponent,
     SliderCssComponent,
     ResponsiveMenuComponent,
+    ResponsiveFooterComponent,
   ],
   imports: [
     BrowserModule,
