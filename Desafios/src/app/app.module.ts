@@ -35,6 +35,7 @@ import { SocialCardComponent } from './components/day-26/social-card/social-card
 import { SliderCssComponent } from './components/day-27/slider-css/slider-css.component';
 import { ResponsiveMenuComponent } from './components/day-28/responsive-menu/responsive-menu.component';
 import { ResponsiveFooterComponent } from './components/day-29/responsive-footer/responsive-footer.component';
+import { TiltBoxComponent } from './components/day-30/tilt-box/tilt-box.component';
 
 @NgModule({
   declarations: [
@@ -69,6 +70,7 @@ import { ResponsiveFooterComponent } from './components/day-29/responsive-footer
     SliderCssComponent,
     ResponsiveMenuComponent,
     ResponsiveFooterComponent,
+    TiltBoxComponent,
   ],
   imports: [
     BrowserModule,

@@ -213,4 +213,13 @@ https://github.com/Brenda-A-S/Brenda-A-S/assets/69852246/ccedf5bc-0027-4527-8b0c
 
 https://github.com/Brenda-A-S/30-days-css/assets/69852246/29870782-5ae0-454c-83ed-f017d6475a61
 
-# Dia 30 - 
+# Dia 30 - Tilt Effect
+* Position relative e position absolute
+* Display flex com space-between e flex-wrap wrap
+* Perspective e transform-style preserve-3d
+* Transform translateZ, Scale, RotateX e RotateY
+* Transition
+* Hover 
+* z-index
+
+![30](https://github.com/Brenda-A-S/30-days-css/assets/69852246/d50deff5-1fb0-4c6a-b2ae-07fbb73ae916)
