@@ -4,6 +4,8 @@ Oi gente✨...
 Aceitei esse desafio para treinar meu CSS, aprender coisas novas e melhorar meu portfólio🚀.
 Usei o seguinte repositório para realizar esses desafios: [30diasDeCSS](https://github.com/MilenaCarecho/30diasDeCSS#id01)
 
+![desafios](https://github.com/Brenda-A-S/30-days-css/assets/69852246/7beebbb3-1328-4faa-9f66-9bfc5be903ee)
+
 # Dia 1 - Ícone de mídia social em camadas
 O que aprendi e utilizei:
 * Transições CSS
